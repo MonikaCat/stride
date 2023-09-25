@@ -5,10 +5,10 @@ import (
 
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
 
-	"github.com/Stride-Labs/stride/v15/app"
-	"github.com/Stride-Labs/stride/v15/cmd"
+	"github.com/MonikaCat/stride/v15/app"
+	"github.com/MonikaCat/stride/v15/cmd"
 
-	cmdcfg "github.com/Stride-Labs/stride/v15/cmd/strided/config"
+	cmdcfg "github.com/MonikaCat/stride/v15/cmd/strided/config"
 )
 
 func main() {

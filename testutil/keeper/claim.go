@@ -7,8 +7,8 @@ import (
 	tmproto "github.com/cometbft/cometbft/proto/tendermint/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	strideapp "github.com/Stride-Labs/stride/v15/app"
-	"github.com/Stride-Labs/stride/v15/x/claim/keeper"
+	strideapp "github.com/MonikaCat/stride/v15/app"
+	"github.com/MonikaCat/stride/v15/x/claim/keeper"
 )
 
 func ClaimKeeper(t testing.TB) (*keeper.Keeper, sdk.Context) {

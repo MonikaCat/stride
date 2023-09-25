@@ -8,7 +8,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/client"
 
-	"github.com/Stride-Labs/stride/v15/x/autopilot/types"
+	"github.com/MonikaCat/stride/v15/x/autopilot/types"
 
 	"github.com/cosmos/cosmos-sdk/client/flags"
 )

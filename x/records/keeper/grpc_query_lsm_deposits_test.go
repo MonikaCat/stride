@@ -5,7 +5,7 @@ import (
 
 	_ "github.com/stretchr/testify/suite"
 
-	"github.com/Stride-Labs/stride/v15/x/records/types"
+	"github.com/MonikaCat/stride/v15/x/records/types"
 )
 
 func (s *KeeperTestSuite) TestLSMDeposit() {

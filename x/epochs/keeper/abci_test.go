@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Stride-Labs/stride/v15/x/epochs"
-	"github.com/Stride-Labs/stride/v15/x/epochs/types"
+	"github.com/MonikaCat/stride/v15/x/epochs"
+	"github.com/MonikaCat/stride/v15/x/epochs/types"
 )
 
 func (suite *KeeperTestSuite) TestEpochInfoChangesBeginBlockerAndInitGenesis() {

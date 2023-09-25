@@ -11,7 +11,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/flags"
 	"github.com/cosmos/cosmos-sdk/version"
 
-	"github.com/Stride-Labs/stride/v15/x/ratelimit/types"
+	"github.com/MonikaCat/stride/v15/x/ratelimit/types"
 )
 
 const (
